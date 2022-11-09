@@ -1,9 +1,9 @@
 ---
-title: sync-utils 工具包
+title: 安装
 icon: install
 index: false
 dir:
-order: 1
+  order: 10
 ---
 
 # 简介

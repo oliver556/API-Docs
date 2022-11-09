@@ -1,7 +1,7 @@
 ---
-title: 账号申请
+title: 字符串
 icon: install
 index: false
 dir:
-  order: 1
+  order: 21
 ---

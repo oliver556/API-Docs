@@ -4,7 +4,7 @@ export const zhNavbar = navbar([
   // "/zh/",
   // { text: "案例", icon: "discover", link: "/zh/demo/" },
   { text: "使用指南", icon: "creative", link: "/userSGuidance/" },
-  { text: "Core", icon: "engine", link: "/cookbook/sync-core/intro/" },
+  { text: "Core", icon: "engine", link: "/cookbook/sync-core/" },
   { text: "Utils", icon: "build", link: "/cookbook/sync-utils/" },
   // {
   //   text: "指南",
@@ -12,7 +12,7 @@ export const zhNavbar = navbar([
   //   prefix: "/zh/guide/",
   //   children: [
   //     {
-  //       text: "Bar",
+  //       text: "Bar",e
   //       icon: "creative",
   //       prefix: "bar/",
   //       children: ["baz", { text: "...", icon: "more", link: "" }],
