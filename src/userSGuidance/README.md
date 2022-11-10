@@ -10,4 +10,4 @@ icon: creative
 所有依赖包需要有公司 NPM 账号才可正常下载依赖
 :::
 
-- [《账号申请》](install/script.md)
+- [《账号获取》](get-account.md)

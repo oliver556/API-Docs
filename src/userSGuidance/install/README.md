@@ -1,7 +1,0 @@
----
-title: 账号申请
-icon: install
-index: false
-dir:
-  order: 1
----

@@ -8,8 +8,6 @@ star: true
 
 # 如何使用
 
-> `syncsoft-utils` 是基于 `Envelop` 设计体系的 报文信封体的辅助工具封装，主要用于前后端交互辅助。
-
 ## 引用方式
 
 ::: tip
