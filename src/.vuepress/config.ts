@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 // @ts-ignore
 export default defineUserConfig({
-  base: "/",
+  base: "/api/sync_docs/",
 
   lang: "zh-CN",
 

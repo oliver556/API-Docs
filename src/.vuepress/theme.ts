@@ -17,6 +17,8 @@ export default hopeTheme({
     orange: "#fb9b5f",
   },
 
+  repoDisplay: false, // 不显示仓库图标
+
   iconAssets: "iconfont",
 
   logo: "/logo.svg",

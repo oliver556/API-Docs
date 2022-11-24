@@ -11,3 +11,9 @@ icon: creative
 :::
 
 - [《账号获取》](get-account.md)
+
+- [《文档地址》](address-navigation.md)
+
+- [《环境 配置》](environment.md)
+
+- [《nrm 配置》](nrm.md)
